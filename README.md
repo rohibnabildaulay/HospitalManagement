@@ -1,4 +1,4 @@
 HospitalManagement
 ==================
 
-Simple Hospital Management System
+Afaiyya
